@@ -1,2 +1,6 @@
 .DS_Store
 cs_study/
+.vscode/
+ForkSample.dSYM/
+ForkSample
+.jython_cache/
