@@ -4,3 +4,4 @@ cs_study/
 ForkSample.dSYM/
 ForkSample
 .jython_cache/
+__pycache__/
