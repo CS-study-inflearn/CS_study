@@ -7,4 +7,5 @@ def client():
         data = s.recv(1024)
     print('Received', repr(data))
 
-client()
+if __name__ == "__main__":
+    client()
